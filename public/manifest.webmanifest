@@ -1,0 +1,13 @@
+{
+  "name": "Sprint Inercial",
+  "short_name": "Sprint",
+  "description": "Un espacio sencillo para empezar, concentrarte y avanzar.",
+  "lang": "es",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#9333ea",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
